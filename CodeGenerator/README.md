@@ -19,7 +19,7 @@
 1. Clona este repositorio:
 
     ```bash
-    git clone <URL_DEL_REPOSITORIO>
+    git clone https://github.com/rodriborda/Tp-final.git
     ```
 2. Instala las dependencias:
     ```bash
